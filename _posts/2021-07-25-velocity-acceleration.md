@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Save money on Dead by Daylight purchases"
+title:  "Discounts on games (PS5) | Collection of this Day"
 categories: Games
-tags: deadbydaylight
+tags: salegames
 author: jenn
 mathjax: true
 ---
