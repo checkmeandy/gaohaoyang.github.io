@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "动画中的三角学"
-categories: JavaScript
-tags: 动画 Canvas 三角
-author: HyG
+title:  "Save money on Dead by Daylight purchases"
+categories: Games
+tags: deadbydaylight
+author: jenn
 mathjax: true
 ---
 
